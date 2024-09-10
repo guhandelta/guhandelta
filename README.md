@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-
-**guhandelta/guhandelta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 <a href="https://app.daily.dev/guha"><img src="https://api.daily.dev/devcards/v2/gHd4AKFNU92AskdwjSp0K.png?r=s4b&type=default" width="356" alt="Guhaprasaanth Nandagopal's Dev Card"/></a>
