@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **guhandelta/guhandelta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: guhan.delta@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Travel Enthusiast with a Taste for Adventure: "I love exploring new places, and one of my favorite travel memories is hiking across lush farmlands in the countryside while enjoying local street food along the way."
--->
+
